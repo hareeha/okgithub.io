@@ -1,0 +1,24 @@
+.w{
+    background-color: aqua;
+    border: 3px solid plum;
+    width: 10%;
+}
+.e{
+    border: 5px solid purple;
+    background-color: darkseagreen;
+    box-shadow: 5px 5px 10px rgb(0, 0,255,0.2);
+}
+.g{
+    border: 5px solid purple;
+    background-color: darkseagreen;
+    box-shadow: 5px 5px 10px rgb(0, 0,255,0.2);
+    height: 50%;
+    width: 60%;
+}
+.ha{
+    border: 5px solid brown;
+}
+.t{
+    border: 3px solid darkorange;
+    width:20%;
+}

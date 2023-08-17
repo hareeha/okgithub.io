@@ -1,0 +1,40 @@
+.im{
+    border: 3px solid blue;
+}
+p{
+    border: 3px solid brown;
+    width:50%
+}
+.u{
+    border: 4px solid red;
+    width:50%
+}
+pre{
+    border: 4px solid rebeccapurple;
+    background-color: aqua;
+}
+h3{
+    border: 3px solid purple;
+    background-color: chocolate;
+    width:10%;
+}
+.f{
+    background-color:wheat;
+    border: 3px solid cornflowerblue;
+}
+.m{
+    background-color: aquamarine;
+    border: 3px solid brown;
+}
+.b{
+    border: 3px solid brown;
+    background-color: darkcyan;
+    width:50% 
+}
+.s{
+    border: 3px solid red;
+}
+.hg{
+    border: 5px solid plum;
+    width:50%;
+}

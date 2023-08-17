@@ -1,0 +1,26 @@
+.h{
+    border: 5px solid red;
+}
+.s{
+    border: 5px solid purple;
+    width: 57%;
+}
+p{
+    background-color: cyan;
+    width:50%;
+}
+.a{
+    border: 5px solid blue;
+    width: 57%;
+}
+.b{
+    border: 5px solid saddlebrown;
+    width: 57%;
+}
+.p{
+    border: 5px solid darkgreen;
+    width: 57%;
+}
+.o{
+    border: 5px solid brown;
+}

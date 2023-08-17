@@ -1,0 +1,54 @@
+.ar{
+    background-color: hs1(180,72%,65%);
+    border: 3px solid red;
+    color: #dfc60ee7;
+    border-radius: 10px;
+    padding:10px 20px;
+
+}
+h2{
+    border: 3px solid plum;
+    background-color: beige;
+    width: 10%;
+    height: 40%;
+}
+.ex{
+    border: 3px solid plum;
+    background-color: rgb(220, 236, 245);
+    width: 30%;
+    height: 40%;
+}
+.bd{
+    border: 3px solid plum;
+    background-color: beige;
+    width: 20%;
+    height: 40%;
+}
+.ha{
+    width:200px;
+    height: 200px;
+    background-color: burlywood;
+    box-shadow: 10px 10px 20px yellowgreen,
+    -10px -10px 20px palevioletred;
+    padding:20px;
+
+}
+p{
+    color: #EA1179;
+    border: 3px solid red;
+    width: 50%;
+    height: 50%;
+}
+.style{
+    height:400px;
+    width:400px ;
+    border:3px solid #EA1179;
+    border-radius: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 8px 12px rgba(0,0,0,0.2)
+    inset 0 0 10px rgba(0,0,0,0.5);
+}
+.ku{
+    border:3px solid brown;
+    height: 50%;
+    width:50%;
+}
